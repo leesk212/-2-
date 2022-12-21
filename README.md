@@ -2,9 +2,7 @@
 
 ## 0. 실기 개요
 
-![Untitled](%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%82%E1%85%A6%E1%86%BA%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A1%202%E1%84%80%E1%85%B3%E1%86%B8%20(%E1%84%89%E1%85%B5%E1%86%AF%2012%2011%5B%E1%84%8B%E1%85%B5%E1%86%AF%5D)%2046f56c07e5bb414a81791c6ac4746528/Untitled.png)
 
-![Untitled](%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%82%E1%85%A6%E1%86%BA%20%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A1%202%E1%84%80%E1%85%B3%E1%86%B8%20(%E1%84%89%E1%85%B5%E1%86%AF%2012%2011%5B%E1%84%8B%E1%85%B5%E1%86%AF%5D)%2046f56c07e5bb414a81791c6ac4746528/Untitled%201.png)
 
 ## 0. 종합 정리
 
@@ -88,13 +86,13 @@
 
 - 옛날거 (근본)
     
-    [](https://youtu.be/5ehrP9b4d4U)
+    https://www.youtube.com/watch?v=lW7N_GeODAk
     
 - **`나름 최근 것 (가장 도음됨)`**
     
-    [](https://www.youtube.com/watch?v=lW7N_GeODAk)
+    https://www.youtube.com/watch?v=lW7N_GeODAk
     
-    [](https://www.youtube.com/watch?v=hhv79AV8eZg)
+    https://www.youtube.com/watch?v=hhv79AV8eZg
     
 - 영상 캡쳐
     
