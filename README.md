@@ -1,4 +1,4 @@
-# 인터넷 보안 전문가 2급 (실: 12/11[일])
+# 인터넷 보안 전문가 2급 실기 자료 모음
 
 ## 실기 개요
 ![image](https://user-images.githubusercontent.com/67637935/208845642-32e1abe4-1d59-46f6-aa03-59463c36ee3c.png)
